@@ -23,9 +23,12 @@ h2 {
     flex-direction: column;
     align-items: center;
     background-color: gray;
-    padding: 0 24px;
+    padding: 0 10px;
 }
-
+#details {
+font-size: medium;
+    
+}
 .section {
     border-radius: 3px;
     width: fit-content;
